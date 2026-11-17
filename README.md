@@ -1,4 +1,4 @@
-中港台日 Klee One 衍生手寫字型
+陸港台日 Klee One 衍生手寫字型
 ======
 CHTJ-handwritten-fonts  
 
